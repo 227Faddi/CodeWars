@@ -1,5 +1,5 @@
 # 🕹️ CodeWars Challenges : [Visit Here](https://www.codewars.com/users/227Faddi)
-All CodeWars challenges completed recently, pushing solutions almost every day.
+All katas completed recently, pushing solutions almost every day!
 
 ![alt tag](stats.webp)
 
