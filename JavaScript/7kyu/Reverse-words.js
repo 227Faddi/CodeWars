@@ -5,6 +5,9 @@
 // "This is an example!" ==> "sihT si na !elpmaxe"
 // "double  spaces"      ==> "elbuod  secaps"
 
+
+// My Solution
+
 // P - Parameters
 // a string
 
