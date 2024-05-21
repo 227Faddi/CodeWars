@@ -22,22 +22,16 @@
 // XO("zpzpzpp") => true // when no 'x' and 'o' is present should return true
 
 // P - Pseudocode
-// split the string then loop into the array to check if there is any o and x then count them and if there is the same num return true
+// check for no apperance of 'x' or 'o', transform the string into an arr, then using .filter, filter the item to count and .length to know the num, then compare the two
 
 function XO(str) {
-    let string = str.toLowerCase()
-    let countX = 0;
-    let countO = 0;
+    let string = str.toLowerCase().split('')
     if(!string.includes('x') && !string.includes('o')){
         return true
-    } else if(string.includes('x') && string.includes('o')){
-        for(let i = 0; i < string.length; i++){
-            
-        }
-    }else{
-        return false
+    } else{
+        return string.filter(item => item === 'x').length === string.filter(item => item === 'o').length
     }
 }
 
 
-console.log(XO("xooxx"))  //false
+console.log(XO("zzoo"))  //false
