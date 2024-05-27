@@ -13,7 +13,7 @@
 // 'hey!' => 'hey'
 
 // P - Pseudocode
-// use split to transform the string into an array then map or filter the array then join to get back to a satring
+// use split to transform the string into an array then map or filter the array then join to get back to a string
 
 function removeExclamationMarks(s) {
     return s.split('').filter((item) => item !== '!').join('');
