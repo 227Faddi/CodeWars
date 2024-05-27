@@ -39,5 +39,4 @@ function removeSmallest(numbers) {
     }
 }
 
-
 console.log(removeSmallest([5,3,2,1,1,4]))
