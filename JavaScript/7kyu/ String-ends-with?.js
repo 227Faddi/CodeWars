@@ -20,6 +20,7 @@ DESCRIPTION:
 
 // P - Pseudocode
 // check the length of the ending string and compare it with the same ending of the string
+
 function solution(str, ending){
     return str.endsWith(ending) 
 }
