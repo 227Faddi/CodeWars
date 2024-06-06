@@ -16,10 +16,10 @@
 // the number of the total cost of the rental minus discount if applicable
 
 // E - Examples
-(rentalCarCost(3), 100);
-(rentalCarCost(4), 140);
-(rentalCarCost(5), 180);
-(rentalCarCost(6), 220);
+// (rentalCarCost(3), 100);
+// (rentalCarCost(4), 140);
+// (rentalCarCost(5), 180);
+// (rentalCarCost(6), 220);
 
 // P - Pseudocode
 // multiply the number of days oer 40 to get the total const, then conditionals to check the discount
