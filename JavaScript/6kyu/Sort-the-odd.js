@@ -28,7 +28,7 @@
 
 
 function sortArray(array) {
-    let odd = array.filter((num) => num % 2 !== 0).sort();
+    let odd = array.filter((num) => num % 2 !== 0).sort((a, b) => a - b);
     let index = 0;
     return array.map((num) => num % 2 !== 0 ? odd[index++] : num)
 }
