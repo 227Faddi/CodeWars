@@ -24,7 +24,6 @@
 // 5, 10, 2  -->  17
 // 5, 20, 2  -->  27
 
-
 // P - Pseudocode
 // return the sum of the 3 numbers
 
