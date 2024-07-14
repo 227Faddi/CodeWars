@@ -1,7 +1,10 @@
 # 🕹️ CodeWars Challenges : [Visit Here](https://www.codewars.com/users/227Faddi)
+
+![stat](https://www.codewars.com/users/227Faddi/badges/large)
+
 All katas completed recently, pushing solutions almost every day!
 
-![alt tag](stats.webp)
+![codewars stats](stats.webp)
 
 ## How It's Made:
 
@@ -9,6 +12,6 @@ All katas completed recently, pushing solutions almost every day!
 
 ## Lessons Learned:
 
-Doing coding challenges regularly is currently helping me learn and understand difficult concepts, and also strengthening my skills.
+Regularly doing coding challenges is currently helping me learn and grasp difficult concepts, while also improving my skills.
 
 
