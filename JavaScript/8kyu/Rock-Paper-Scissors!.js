@@ -34,5 +34,5 @@ const rps = (p1, p2) => {
         return "Draw!"
     } else{
         return "Player 2 won!"
-    }
+    } 
 };
