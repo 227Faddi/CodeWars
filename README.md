@@ -14,4 +14,5 @@ All katas completed recently, pushing solutions almost every day!
 
 Regularly doing coding challenges is currently helping me learn and grasp difficult concepts, while also improving my skills.
 
-
+## Other Projects:
+Explore more of my recent projects on [My Portfolio](https://faliloukhouma.com).
