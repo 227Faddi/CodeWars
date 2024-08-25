@@ -17,7 +17,8 @@
 
 // P - Pseudocode
 // transform the word into an array
-// 
+// loop into it and push the uppercase letters to a new array
+// return the new array
 
 var capitals = function (word) {
     let result = [];
