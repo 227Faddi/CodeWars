@@ -12,7 +12,7 @@ function uefaEuro2016(teams, scores){
     if(scores[0] > scores[1]){
         return  `At match ${teamsString}, ${teams[0]} won!`
     } else if(scores[0] < scores[1]){
-        return  `At match ${teamsString}, ${teams[0]} won!`
+        return  `At match ${teamsString}, ${teams[1]} won!`
     } else{
         return  `At match ${teamsString}, teams played draw.`
     }
