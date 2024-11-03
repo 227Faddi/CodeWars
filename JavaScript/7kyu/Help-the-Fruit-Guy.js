@@ -13,10 +13,7 @@
 
 
 function removeRotten(bagOfFruits){
-    if( bagOfFruits === null){
-        return []
-    }
-    if(bagOfFruits.length === 0){
+    if(!bagOfFruits || bagOfFruits.length === 0){
         return []
     }
     return bagOfFruits.map((fruit) => fruit.startsWith('rotten') ? fruit.replace('rotten', '').toLowerCase() : fruit)
