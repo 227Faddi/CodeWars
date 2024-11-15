@@ -2,6 +2,4 @@ function formatFileName(string) {
   console.log(`${string.replaceAll(" ", "-")}.js`);
 }
 
-formatFileName(
-  "Coding Meetup #3 - Higher-Order Functions Series - Is Ruby coming?"
-);
+formatFileName("By 3, or not by 3? That is the question . . .");
