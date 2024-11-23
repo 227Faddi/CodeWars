@@ -2,4 +2,6 @@ function formatFileName(string) {
   console.log(`${string.replaceAll(" ", "-")}.js`);
 }
 
-formatFileName("The Office III - Broken Photocopier");
+formatFileName(
+  "Coding Meetup #8 - Higher-Order Functions Series - Will all continents be represented?"
+);
