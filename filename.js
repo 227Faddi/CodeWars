@@ -3,5 +3,5 @@ function formatFileName(string) {
 }
 
 formatFileName(
-  "Coding Meetup #14 - Higher-Order Functions Series - Order the food"
+  "Coding Meetup #16 - Higher-Order Functions Series - Ask for missing details"
 );
