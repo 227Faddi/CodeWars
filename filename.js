@@ -2,4 +2,4 @@ function formatFileName(string) {
   console.log(`${string.replaceAll(" ", "-")}.js`);
 }
 
-formatFileName("Reverse List Order");
+formatFileName("Find The Parity Outlier");
