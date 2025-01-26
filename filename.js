@@ -2,4 +2,4 @@ function formatFileName(string) {
   console.log(`${string.replaceAll(" ", "-")}.js`);
 }
 
-formatFileName("Are the numbers in order?");
+formatFileName("Round up to the next multiple of 5");
