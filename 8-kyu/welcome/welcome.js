@@ -1,5 +1,5 @@
 function greet(language) {
-  const greetings = {
+    const greetings = {
     english: "Welcome",
     czech: "Vitejte",
     danish: "Velkomst",
@@ -18,6 +18,7 @@ function greet(language) {
     swedish: "Valkommen",
     welsh: "Croeso"
   };
+​
+ return greetings[language] ? greetings[language] : 'Welcome'
   
-  return greetings[language] ?  greetings[language] : 'Welcome'
 }
