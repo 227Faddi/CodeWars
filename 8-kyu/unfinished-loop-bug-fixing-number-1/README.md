@@ -1,0 +1,1 @@
+<h2><a href=https://www.codewars.com/kata/55c28f7304e3eaebef0000da/train/python target="_blank">Unfinished Loop -  Bug Fixing #1</a></h2><h3>8 kyu</h3><h3 id="unfinished-loop---bug-fixing-1">Unfinished Loop - Bug Fixing #1</h3><p>Oh no, Timmy's created an infinite loop! Help Timmy find and fix the bug in his unfinished for loop!</p>
