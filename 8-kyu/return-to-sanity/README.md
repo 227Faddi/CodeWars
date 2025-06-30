@@ -1,0 +1,1 @@
+<h2><a href=https://www.codewars.com/kata/514a7ac1a33775cbb500001e/train/javascript target="_blank">Return to Sanity</a></h2><h3>8 kyu</h3><p>This function should return an object, but it's not doing what's intended. What's wrong?</p>
